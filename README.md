@@ -2,7 +2,7 @@
 
 How you submit your problem sets will be a little bit different now. You will be doing your work in a Colab notebook. These instructions below will be included in each notebook, but here's a summary:
 
-1. You will follow the instructions in [the Colab notebook for PS6](https://colab.research.google.com/drive/1eOnOytrYCOwAmOjXfghdK0xmkj9wm8oL?usp=sharing) to create your own copy of the notebook.
+1. Follow [this link to the Colab notebook for PS7](https://colab.research.google.com/drive/1eOnOytrYCOwAmOjXfghdK0xmkj9wm8oL?usp=sharing) to create your own copy of the notebook. Then make your own copy, as described in the notebook.
 2. You will edit the Colab notebook to complete the various tasks, as indicated in the notebook. Most of the time this will involve writing code in a code cell, but sometimes you will answer questions in a text cell. It will always be clear what you have to do. This particular homework has questions that you have to answer.
 3. You will share the notebook with me and the TAs, as decribed in the notebook.
 4. You will download your Colab notebook to your computer, move it into this repository, and add, commit, and push it to GitHub, just like you have done for previous problem sets.
