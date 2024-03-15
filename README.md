@@ -10,7 +10,7 @@ How you submit your problem sets will be a little bit different now. You will be
 
 [Here is a link to the Colab notebook](https://colab.research.google.com/drive/1eOnOytrYCOwAmOjXfghdK0xmkj9wm8oL?usp=sharing).
 
-If you think you see an error or typo, let me know! I will update [this version of the repo](https://github.com/CSCI1090-S24/ps6) with any corrections you suggest.
+If you think you see an error or typo, let me know! I will update [this version of the repo](https://github.com/CSCI1090-S24/ps7) with any corrections you suggest.
 
 Don't forget that there are [inks to very very helpful Colab notebook in the sample code for week 8](https://github.com/CSCI1090-S24/sample_code/tree/main/week8) that has lots of examples answering the same kinds of questions and using all the necssary function. 
 
